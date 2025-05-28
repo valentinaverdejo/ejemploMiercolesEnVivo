@@ -17,4 +17,4 @@ gato en serio
 
 ![imagen de gato](./imagenes/gato.jpg)
 
-<img src="./imagenes/gato.jpg" alt="imagen de gato" style="width:100px!>
+<img src="./imagenes/gato.jpg" alt="imagen de gato" style="width:100px">
