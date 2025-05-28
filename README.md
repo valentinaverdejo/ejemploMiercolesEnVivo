@@ -1,6 +1,6 @@
 # ejemploMiercolesEnVivo
 
-en verdad todas las respestas están en <http://google.com>
+en verdad todas las respestas están en <http://google.com> o [aquí](http://google.com)
 
 un párrafo
 
@@ -8,7 +8,7 @@ otro párrafo
 
 parece que otro párrafo
 
-* elitem (lista)
+* el item (lista)
 * el otro item
   * el subitem
 
