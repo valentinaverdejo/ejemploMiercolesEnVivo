@@ -1,5 +1,7 @@
 # ejemploMiercolesEnVivo
 
+en verdad todas las respestas están en <http://google.com>
+
 un párrafo
 
 otro párrafo
